@@ -1,0 +1,23 @@
+1. What is ROS?
+ROS (Robot operating system) is a software framework use to build robot applications.
+Also it is an traditional Operating system.
+
+2. What is ROS2?
+ROS 2 is the next-generation version of ROS. It is designed for real-world robotics systems and supports:
+Real-time communication
+Security
+
+3.What is Humble?
+Humble is the name of a ROS 2 distribution (version), similar to version names like Windows 11 or Android 13.  
+ROS 2 Humble is a stable and long-term supported version used in robotics research and industry.
+
+4.Nodes
+A node is a small program that performs a specific task in a robot system.
+Examples:
+ Camera node-handles camera data
+ Motor node - controls motors
+
+5.Why is Ros used?
+ Modular system design
+ Easy communication between components
+ Scalable architecture
