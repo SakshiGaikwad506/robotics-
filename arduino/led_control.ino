@@ -1,4 +1,11 @@
-nt ledPin = 13;
+
+
+
+
+
+
+
+int ledPin = 13;
 int buttonPin = 2;
 int buttonState = 0;
 bool ledState = false;
